@@ -4,6 +4,11 @@ My collection of the dot files
 
 - alacritty
 
-ln -s ~/dotfiles/dotfiles/alacritty/alacritty.yml ~/.config/alacritty/alacritty.yml
+ln -s ~/dotfiles/alacritty/alacritty.yml ~/.config/alacritty/alacritty.yml
+
+
+- tmux
+
+ln -s ~/dotfiles/tmux/.tmux.conf ~/.tmux.conf
 
 
