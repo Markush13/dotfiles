@@ -11,4 +11,7 @@ ln -s ~/dotfiles/alacritty/alacritty.yml ~/.config/alacritty/alacritty.yml
 
 ln -s ~/dotfiles/tmux/.tmux.conf ~/.tmux.conf
 
+- nvim
+
+ln -s ~/dotfiles/nvim ~/.config/nvim
 
