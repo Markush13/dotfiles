@@ -15,3 +15,8 @@ ln -s ~/dotfiles/tmux/.tmux.conf ~/.tmux.conf
 
 ln -s ~/dotfiles/nvim ~/.config/nvim
 
+
+- syncthing
+
+brew install --cask syncthing
+
